@@ -15,7 +15,7 @@ Este es un backend construido con Node.js, Express y MySQL, diseñado para gesti
 ---
 
 ## Estructura del Proyecto
-
+```
 vehiculos-api/
 ├── app.js
 ├── config/
@@ -28,7 +28,7 @@ vehiculos-api/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## Requisitos
