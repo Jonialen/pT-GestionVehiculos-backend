@@ -14,12 +14,12 @@ Este es un backend construido con Node.js, Express y MySQL, diseñado para gesti
 
 ## Variables de conexión (por defecto)
 
-Estas están configuradas directamente en `app.js`, pero puedes moverlas a variables de entorno si lo deseas:
+Estas están configuradas directamente en `app.js`, pero puedes moverlas a variables de entorno
 
-host: '52.20.16.17',
-user: 'movistarmysql',
-password: 'MovSoft2018',
-database: 'EXAMEN'
+host,
+use,
+password,
+database
 
 ---
 
